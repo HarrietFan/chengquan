@@ -1,0 +1,82 @@
+/* ------commen------ */
+.pl25 {
+    padding-left: 25px;
+}
+
+.pl30 {
+    padding-left: 30px;
+}
+
+.pr26 {
+    padding-right: 26px;
+}
+/* ------banner------ */
+
+.banner {
+    height: 350px;
+    margin-top: 80px;
+    background: #fff url(../img/cases.jpg) no-repeat center/cover;
+}
+
+.banner p {
+    color: #fff;
+    padding: 13px;
+    font-size: 22px;
+    line-height: 1;
+}
+
+.banner p:nth-of-type(1) {
+    font-size: 40px;
+}
+
+/* ------container------ */
+.container {
+    padding: 95px 0 60px 0;
+}
+
+.cases-list:not(:first-of-type) {
+    padding-top: 77px;
+}
+
+.cases-list:not(:last-of-type) {
+    border-bottom: 1px solid #f4f4f4;
+}
+
+.cases-ind {
+    width: 696px;
+    padding-top: 17px;
+}
+
+.cases-ind .ind-h {
+    height: 52px;
+    line-height: 52px;
+    font-size: 22px;
+    font-weight: normal;
+    color: #ff7200;
+    background-color: #f8f8f8;
+}
+
+.cases-list span {
+    display: inline-block;
+    width: 3px;
+    height: 16px;
+    margin-right: 10px;
+    line-height: 20px;
+    background-color: #ff7200;
+    vertical-align: text-bottom;
+}
+
+.cases-list .cases-lip1 {
+    display: inline-block;
+    padding-top: 50px;
+    font-size: 20px;
+    line-height: 20px;
+    color: #666;
+    vertical-align: text-bottom;
+}
+
+.cases-list .cases-lip2 {
+    font-size: 14px;
+    line-height: 24px;
+    padding: 10px 0 5px;
+}

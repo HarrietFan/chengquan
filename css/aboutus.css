@@ -1,0 +1,155 @@
+/* -------commen------- */
+
+.cont-h2 {
+    font-size: 30px;
+    line-height: 1;
+    text-align: center;
+    color: #333;
+    font-weight: normal;
+}
+
+/* ------banner------ */
+
+.banner {
+    margin-top: 80px;
+    height: 250px;
+    background: #fff url(../img/banner1.png) no-repeat center/cover;
+}
+
+
+/* ------container----aboutus------- */
+
+.aboutus {
+    background-color: #f9f9fa;
+}
+
+.ab-con {
+    padding: 82px 0 114px 0;
+}
+
+.ab-decent {
+    position: relative;
+    height: 504px;
+}
+
+.ab-decent img {
+    position: absolute;
+    left: 0;
+    top: 62px;
+    width: 614px;
+    height: 385px;
+}
+
+.ab-decent-ch {
+    position: relative;
+    left: 480px;
+    top: 100px;
+    box-sizing: border-box;
+    width: 720px;
+    height: 400px;
+    padding-top: 48px;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 13px 0px rgba(232, 232, 243, 0.27);
+    border-radius: 6px;
+}
+
+.ab-decent-ch .ab-cq {
+    font-size: 24px;
+    padding: 0 0 6px 58px;
+    line-height: 24px;
+    color: #ff7200;
+}
+
+.ab-decent-ch .ab-cqhr {
+    display: inline-block;
+    width: 36px;
+    height: 3px;
+    margin-left: 58px;
+    line-height: 3px;
+    background-color: #ff7200;
+}
+
+.ab-decent-ch .ab-p {
+    padding: 14px 60px 0;
+    font-size: 16px;
+    line-height: 30px;
+    text-align: justify;
+    color: #666666;
+}
+
+/* ------container----honor------- */
+
+.hon-con {
+    padding: 102px 0 135px;
+}
+
+.honor-list {
+    padding-top: 74px;
+    white-space: pre-wrap;
+    justify-content: flex-start;
+}
+
+.honor-pic {
+    flex: 1;
+    height: 380px;
+    width: calc((100% - 10px) / 4);
+    min-width: calc((100% - 10px) / 4);
+    max-width: calc((100% - 10px) / 4);
+}
+.honor-pic img {
+    transition: 1.8s ease;
+}
+.honor-pic img:hover {
+    transform: scale(1.1);
+}
+.honor-pic p {
+    font-size: 16px;
+    line-height: 1;
+    color: #333333;
+}
+
+
+/* ----container---telus------ */
+
+.tel-con {
+    height: 500px;
+}
+
+.tel-con img {
+    width: calc(40%);
+    height: 100%;
+}
+.tel-us .cont-h2 {
+    text-align: left;
+    padding-bottom: 56px;
+}
+.tel-us {
+    flex:1;
+    padding: 76px 0 0 94px;
+    background-color: #fbfbfb;
+}
+.telli {
+    padding-bottom: 40px;
+}
+.tellio {
+    display: inline-block;
+}
+.telli span {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin-right: 30px;
+    vertical-align: text-bottom;
+    background: #fff url(../img/dz.png);
+}
+.tellio p:nth-of-type(1){
+    font-size: 16px;
+    line-height: 1;
+    padding-bottom: 14px;
+    color: #333;
+}
+.tellio p:nth-of-type(2){
+    font-size: 18px;
+    line-height: 1;
+    color: #666;
+}

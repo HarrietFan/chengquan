@@ -1,0 +1,115 @@
+/* ------banner------ */
+
+.banner {
+    height: 380px;
+    margin-top: 80px;
+    background: #fff url(../img/banner-survo.jpg) no-repeat center/cover;
+}
+
+.banner p {
+    color: #fff;
+    font-size: 22px;
+    line-height: 36px;
+    opacity: .9;
+
+}
+
+.banner .ban-h {
+    padding-bottom: 20px;
+    font-size: 44px;
+    line-height: 1;
+}
+
+
+/* -----entry-process------ */
+
+.con-pro {
+    padding: 88px 0 127px 0;
+}
+
+.proh {
+    color: #333;
+    font-size: 30px;
+    font-weight: normal;
+    line-height: 1;
+}
+
+.con-pro .proh {
+    padding-bottom: 74px;
+}
+
+.pro-item .item img {
+    width: 130px;
+    height: 130px;
+}
+
+.pro-item>img {
+    width: 52px;
+    height: 24px;
+    padding: 62px 40px 0;
+}
+
+.con-pro .pro-item p {
+    padding-top: 30px;
+    color: #333;
+    font-size: 20px;
+    line-height: 1;
+
+}
+
+/* ------entry-apply------ */
+
+.con-apply {
+    height: 581px;
+    background: #fff url(../img/bg-entry.jpg) no-repeat center/cover;
+}
+
+.con-ap {
+    width: 1036px;    
+}
+.con-aph {
+    padding: 65px 0 42px 0;
+}
+
+.con-ap span{
+    display: inline-block;
+    width: 2px;
+    height: 36px; 
+    background-color: #333;
+    vertical-align: middle;
+}
+.con-ap .proh {
+    display: inline-block;
+    padding-left: 18px;
+    vertical-align: middle;
+}
+
+.ap-input-item {
+    padding-left: 1px;
+}
+.ap-input-item input {
+    display: block;
+    width: 493px;
+    height: 60px;
+    margin-bottom: 30px;
+    font-size: 16px;
+    text-indent: 21px;
+    color: #999999;
+    background-color: #ffffff;
+	border-radius: 2px;
+	border: solid 1px #d3d3d3;
+}
+.ap-input-item input:last-child {
+    margin-bottom: 51px;
+}
+.con-ap a {
+    display: block;
+    width: 150px;
+	height: 40px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+	background-color: #ff7200;
+	border-radius: 20px;
+}

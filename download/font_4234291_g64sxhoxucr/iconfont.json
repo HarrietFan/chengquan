@@ -1,0 +1,23 @@
+{
+  "id": "4234291",
+  "name": "cq",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "372100",
+      "name": "cc-arrow-down",
+      "font_class": "cc-arrow-down",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "672036",
+      "name": "下拉",
+      "font_class": "xiala",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    }
+  ]
+}
